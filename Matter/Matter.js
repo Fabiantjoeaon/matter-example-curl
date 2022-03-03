@@ -7,7 +7,7 @@ const shaders = require("./shaders");
 //const FBOHelper = require("../../FBOHelper.js");
 
 const INC = 1000;
-const RESOLUTION = 1024;
+const RESOLUTION = 600;
 const SIZE = 40 * INC;
 
 //if (!window.gui) window.gui = new GUI();
